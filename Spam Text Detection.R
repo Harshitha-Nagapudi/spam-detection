@@ -1,13 +1,3 @@
-######
-# AUTHOR: Harshitha Nagapudi, Oluwabusayo Oyekanmi, Elham Inamdar, Hassan Wasswa
-# FILENAME: CS5331 - ML - Assignment3 - Source Code.R
-# SPECIFICATION: To implement the proposal submitted for Assignment 2 on an 
-#                 information security problem to solve with machinelearning.
-# FOR: CS 5331 Machine Learning and Information Security section 001/003
-#######
-
-
-
 #import required libraries
 library(neuralnet)
 library(caret)
